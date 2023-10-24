@@ -1,1 +1,6 @@
+
 Hello to the world
+
+import python
+
+print("hello world")
